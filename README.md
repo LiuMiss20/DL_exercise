@@ -13,7 +13,7 @@
 > ##### 结果
 > -  ![Alt text](./预测每日自行车租赁乘客量的结果.png)
 
-### P2  Image Classification - 图像分类器
+### P2  [Image Classification - 图像分类器](https://github.com/ljh20/DL_exercise/tree/master/image_classification)
 
 > ##### 数据集
 > - [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
@@ -26,7 +26,7 @@
 > ##### 后期改进
 > - 需要使用不同的技巧提升准确率
 
-### P3  TV Script Generation - 生成电视剧本
+### P3  [TV Script Generation - 生成电视剧本](https://github.com/ljh20/DL_exercise/tree/master/tv_script_generation)
 
 > ##### 数据集
 > - [Simpsons](https://www.kaggle.com/wcukierski/the-simpsons-by-the-data)
@@ -45,7 +45,7 @@
 > -  [simpsons dataset](https://www.kaggle.com/wcukierski/the-simpsons-by-the-data)
 > ：该数据集比较大，训练完后对效果有一定的提升
 
-### P4  language-translation - 神经网络机器翻译
+### P4  [language-translation - 神经网络机器翻译](https://github.com/ljh20/DL_exercise/tree/master/language_translation)
 
 > ##### 数据集
 > - 由英语和法语语句组成的数据集中的一小部分，试训练从英语翻译成法语的网络
@@ -58,7 +58,7 @@
 > - Prediction   Word Ids:      [336, 110, 291, 141, 354, 1]   French Words: ['il', 'conduit', 'un', 'jaune', '.', '<EOS>']
 > ##### 后期改进 拥有足够多的GPU和训练时间后，可以尝试使用 [WMT10 French-English corpus](http://www.statmt.org/wmt10/training-giga-fren.tar) 语料库训练模型
 
-### P5  Face Generation - 生成人脸
+### P5  [Face Generation - 生成人脸](https://github.com/ljh20/DL_exercise/tree/master/face_generation)
 
 > ##### 数据集
 > - [MNIST](http://yann.lecun.com/exdb/mnist/)：用小数据集快速测试model
