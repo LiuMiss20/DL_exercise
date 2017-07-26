@@ -1,5 +1,10 @@
 # DeepLearning Exercise Contents
 
+### 环境
+- python 3.5
+- tensorflow 1.0
+
+
 ### P1  first neural network - 预测每日自行车租赁乘客量
 > ##### 数据集
 > - 2011年1月1日至2012年12月31日期间每一小时的乘客人数
