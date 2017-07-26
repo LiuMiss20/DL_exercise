@@ -1,5 +1,6 @@
 # DeepLearning Exercise Contents
 
+----------
 ### P1  first neural network - 预测每日自行车租赁乘客量
 > ##### 数据集
 > - 2011年1月1日至2012年12月31日期间每一小时的乘客人数
@@ -7,6 +8,7 @@
 > - 简单的神经网络
 > ##### 结果 ![Alt text](./预测每日自行车租赁乘客量的结果.png)
 
+----------
 ### P2  Image Classification - 图像分类器
 
 > ##### 数据集
@@ -20,6 +22,7 @@
 > ##### 后期改进
 > - 需要使用不同的技巧提升准确率
 
+----------
 ### P3  TV Script Generation - 生成电视剧本
 
 > ##### 数据集
@@ -39,6 +42,7 @@
 > -  [simpsons dataset](https://www.kaggle.com/wcukierski/the-simpsons-by-the-data)
 > ：该数据集比较大，训练完后对效果有一定的提升
 
+----------
 ### P4  language-translation - 神经网络机器翻译
 
 > ##### 数据集
@@ -52,6 +56,7 @@
 > - Prediction   Word Ids:      [336, 110, 291, 141, 354, 1]   French Words: ['il', 'conduit', 'un', 'jaune', '.', '<EOS>']
 > ##### 后期改进 拥有足够多的GPU和训练时间后，可以尝试使用 [WMT10 French-English corpus](http://www.statmt.org/wmt10/training-giga-fren.tar) 语料库训练模型
 
+----------
 ### P5  Face Generation - 生成人脸
 
 > ##### 数据集
