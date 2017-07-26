@@ -5,7 +5,7 @@
 ##### 主要算法
 - 简单的神经网络
 ##### 结果
-![Alt text](./1501038706440.png)
+![Alt text](./预测每日自行车租赁乘客量的结果.png)
 
 ### 2、Image Classification - 图像分类器
 ##### 数据集
@@ -14,7 +14,7 @@
 - 简单的CNN
 ##### 结果
 - Testing Accuracy: 0.65224609375
-- ![Alt text](./1501038241737.png)
+- ![Alt text](./图像分类器的结果.png)
 
 ##### 后期改进
 - 需要使用不同的技巧提升准确率
@@ -62,7 +62,7 @@ homer_simpson:(clears low title) or buy a little hail!
 ##### 结果
 - Discriminator的训练损失: 1.3628左右
 - Generator的训练损失: 0.8932左右
-- ![Alt text](./1501036443890.png)
+- ![Alt text](./生成人脸的结果.png)
 ##### 后期改进
 - G的损失还有待降低，生成的图像比较模糊
 - 需要再多尝试不同的参数，以及调整D和G网络，使model生成的图像更加逼真
